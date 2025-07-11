@@ -1,2 +1,2 @@
 # local-repo-testing
-practice
+practice -git
